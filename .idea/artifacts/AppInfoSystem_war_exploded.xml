@@ -1,0 +1,69 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AppInfoSystem:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppInfoSystem_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="AppInfoSystem/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AppInfoSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/jstl.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/standard.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/commons-dbcp.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/log4j-1.2.17.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/mybatis-3.2.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/commons-io-2.4.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/aopalliance-1.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/fastjson-1.2.13.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/commons-pool-1.6.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/aspectjweaver-1.6.9.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/mybatis-spring-1.2.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/commons-fileupload-1.2.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-tx-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-aop-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-web-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-core-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-jdbc-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-beans-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-webmvc-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-aspects-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-context-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/mysql-connector-java-5.1.0-bin.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-expression-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/项目实战-APP信息管理平台下载资料/提供的素材/项目案例：APP信息管理平台/开发素材提供/工程所需全部jar文件/spring-context-support-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/jstl.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/standard.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/commons-dbcp.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/commons-pool.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/log4j-1.2.17.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/mybatis-3.2.2.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/commons-io-2.4.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/aopalliance-1.0.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/fastjson-1.2.13.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/commons-lang-2.6.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/aspectjweaver-1.6.9.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/mybatis-spring-1.2.0.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/jboss-logging-3.1.0.CR2.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/validation-api-1.0.0.GA.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/commons-fileupload-1.2.2.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-tx-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-aop-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-web-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-core-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-jdbc-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-beans-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-webmvc-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-context-3.2.13.RELEASE.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/mysql-connector-java-5.1.0-bin.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/hibernate-validator-4.3.2.Final.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/mysql-connector-java-5.1.25-bin.jar" />
+          <element id="file-copy" path="D:/java_jar/SSM所需jar/spring-expression-3.2.13.RELEASE.jar" />
+          <element id="library" level="project" name="aopalliance-1.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
